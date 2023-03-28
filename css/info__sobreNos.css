@@ -1,0 +1,41 @@
+.info{
+    display: flex;
+    flex-direction: row;
+    padding: 0px 0px 96px;
+    gap: 64px;
+    flex: none;
+    justify-content: center; 
+}
+
+.info__caixas{
+   display: flex;
+   flex-direction: column;
+}
+
+.info__numero{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 72px;
+    letter-spacing: -0.02em;
+    color: #8E2424;
+}
+
+.info__texto1{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    color: #101828;
+}
+
+.info__texto2{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #667085;
+ }

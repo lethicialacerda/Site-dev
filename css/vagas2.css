@@ -1,0 +1,52 @@
+.vagas2__area{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    color: #101828;
+    margin-top: 50px;
+    align-self: flex-start;
+    margin-left: 285px;
+
+}
+.vagas2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 24px;
+}
+
+.vagas2__info{
+    width: 768px;
+    height: 136px;
+    background: #FFFFFF;
+    border: 1px solid #EAECF0;
+    border-radius: 16px;
+    align-self: center;
+    justify-self: center;
+    
+}
+
+.vagas2__vaga{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    color: #101828;
+    margin-left: 20px;
+    margin-top: 30px;
+    
+}
+
+.vagas2__texto{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #667085;
+    margin-left: 20px;
+    margin-top: 30px;
+}

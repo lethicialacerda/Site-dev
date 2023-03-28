@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&family=Montserrat:wght@200;300&display=swap');
+.sobreNos{
+    align-items: center;
+    padding: 96px 0px;
+    }
+
+.cabecalho{
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    justify-content: center;
+    align-items: center;
+}
+
+.texto1{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: #8E2424;
+}
+
+.texto2{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 60px;
+    letter-spacing: -0.02em;
+    color: #101828;
+}
+
+.texto3{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    color: #667085;
+}
+
+ 
